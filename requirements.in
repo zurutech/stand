@@ -1,0 +1,8 @@
+matplotlib
+networkx
+numpy
+openseespy >= 3.4
+opsvis >= 0.96.2
+pyyaml
+scipy
+tqdm

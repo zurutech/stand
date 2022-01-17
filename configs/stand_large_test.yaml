@@ -1,0 +1,32 @@
+PARAMETERS:
+  BEAM_LENGTH:
+    - 3.0
+    - 6.0
+  BEAM_WIDTH:
+    - 0.2
+    - 0.4
+  BEAM_HEIGHT:
+    - 0.4
+    - 0.6
+  GRID_WIDTH:
+    - 12 
+    - 24
+  GRID_HEIGHT:
+    - 8
+    - 12
+  GRID_DEPTH:
+    - 12
+    - 24
+  YOUNG_MODULUS:
+    - 2.5e+10
+    - 4.3e+10
+  DENSITY:
+    - 2.0e+3
+    - 2.6e+3
+  PRESSURE:
+    - 2.0e+3
+    - 3.0e+3
+  SEED: 0
+DIRECTORY: datasets/stand_large_test
+NUM_STRUCTURES: 1000
+NUM_PROBLEMS_PER_STRUCTURE: 1

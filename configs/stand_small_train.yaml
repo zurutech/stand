@@ -1,0 +1,32 @@
+PARAMETERS:
+  BEAM_LENGTH:
+    - 3.0
+    - 6.0
+  BEAM_WIDTH:
+    - 0.2
+    - 0.4
+  BEAM_HEIGHT:
+    - 0.4
+    - 0.6
+  GRID_WIDTH:
+    - 6 
+    - 12
+  GRID_HEIGHT:
+    - 3
+    - 8
+  GRID_DEPTH:
+    - 6
+    - 12
+  YOUNG_MODULUS:
+    - 2.5e+10
+    - 4.3e+10
+  DENSITY:
+    - 2.0e+3
+    - 2.6e+3
+  PRESSURE:
+    - 2.0e+3
+    - 3.0e+3
+  SEED: 242
+DIRECTORY: datasets/stand_small_train
+NUM_STRUCTURES: 10000
+NUM_PROBLEMS_PER_STRUCTURE: 10

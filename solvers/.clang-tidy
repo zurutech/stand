@@ -1,0 +1,28 @@
+---
+Checks: '-*,
+    bugprone-*,
+    clang-analyzer-*,
+    cppcoreguidelines-*,
+    google-*,
+    hicpp-*,
+    misc-*,
+    modernize-*,
+    performance-*,
+    readability-*,
+    -cppcoreguidelines-init-variables,
+    -cppcoreguidelines-avoid-c-arrays,
+    -cppcoreguidelines-avoid-magic-numbers,
+    -cppcoreguidelines-avoid-non-const-global-variables,
+    -cppcoreguidelines-owning-memory,
+    -cppcoreguidelines-pro-bounds-pointer-arithmetic,
+    -cppcoreguidelines-non-private-member-variables-in-classes,
+    -hicpp-avoid-c-arrays,
+    -modernize-use-trailing-return-type,
+    -modernize-avoid-c-arrays,
+    -misc-unused-parameters,
+    -misc-non-private-member-variables-in-classes,
+    -readability-magic-numbers,
+'
+HeaderFilterRegex: 'include/*.hpp'
+AnalyzeTemporaryDtors: false
+...

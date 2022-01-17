@@ -1,0 +1,2 @@
+-ksp_max_it 1000
+-ksp_rtol 0.000001
