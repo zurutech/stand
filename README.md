@@ -141,7 +141,7 @@ If you find the dataset or the code useful for your research, please cite:
 @article{grementieri2022stand,
     title={StAnD: A Dataset of Linear Static Analysis Problems}, 
     author={Grementieri, Luca and Finelli, Francesco},
-    journal={arXiv preprint arXiv:1607.06450},
+    journal={arXiv preprint arXiv:2201.05356},
     year={2022}
 }
 ```
