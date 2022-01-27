@@ -14,6 +14,7 @@
  */
 
 #include <cmath>
+#include <filesystem>
 #include <stdexcept>
 #include <tuple>
 #include <utility>

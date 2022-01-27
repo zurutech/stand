@@ -100,7 +100,7 @@ public:
     /**
      * \brief getPetscSolution Get the solution vector in PETSc format.
      * 
-     * \return Vec Solution vector.
+     * \return Solution vector.
      */
     [[nodiscard]] Vec getPetscSolution() const;
 

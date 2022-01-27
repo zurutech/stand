@@ -45,7 +45,7 @@ private:
     SuiteSparseMethod _method;
 
     /**
-     * \brief _gpu Whether to use GPU (even if GPU support is very limited)
+     * \brief _gpu Whether to use GPU (even if GPU support is very limited).
      */
     bool _gpu;
 
